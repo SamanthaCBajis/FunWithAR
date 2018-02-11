@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="GameLogic">
+			<method name="toggleUI"/>
+			<method name="toggleUI"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.ParticleSystem">
+			<method name="Stop"/>
+			<method name="Play"/>
+		</type>
+	</assembly>
+</linker>
